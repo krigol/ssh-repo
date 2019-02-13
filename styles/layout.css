@@ -309,7 +309,7 @@ table a, #comments a{background-color:inherit;}
 
 /*new styles from exam */
 
-.wrapper bgded overlay{
+.wrapper_bgded_overlay{
 	background-image:url('../images/demo/backgrounds/01.png');
 }
 
@@ -324,6 +324,18 @@ table a, #comments a{background-color:inherit;}
 	font-family: Comic Sans MS;
 	font-style: italic;
 	font-weight:600;
+}
+
+.ul_style{
+	background-color: silver;
+}
+
+.sdb_holder{
+	background-color: silver;
+}
+
+.ul_style_2{
+	color: black !important;
 }
 
 /* ------------------------------------------------------------------------------------------------------------ */
