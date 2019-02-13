@@ -2,6 +2,10 @@
 @import url("fontawesome-4.6.3.min.css");
 @import url("framework.css");
 
+.bg-img{
+	background-image:url('images/demo/backgrounds/01.png');
+}
+
 /* Rows
 --------------------------------------------------------------------------------------------------------------- */
 .row0, .row0 a{}
