@@ -6,6 +6,30 @@
 	background-image:url('images/demo/backgrounds/01.png');
 }
 
+.txt-justify{
+	text-align: justify;
+}
+
+.dspl-nn{
+	display: none;
+}
+
+.bg-2{
+background-image:url('images/demo/backgrounds/02.png');
+}
+
+.orng{
+	color: orange;
+}
+
+.slvr{
+	color: silver;
+}
+
+.lgtbl{
+	color: lightblue;
+}
+
 /* Rows
 --------------------------------------------------------------------------------------------------------------- */
 .row0, .row0 a{}

@@ -32,8 +32,8 @@
   <div id="pageintro" class="hoc clear"> 
     <article>
       <p class="heading">Информационни технологии</p>
-      <h2 class="heading" style="color: orange;"><span class="block" style="color: lightblue;">Бъдещето е в </span> НАС !</h2>
-      <footer><a href="#" style="color: silver;">Прочети повече &raquo;</a></footer>
+      <h2 class="heading" class="orng"><span class="block lgtbl">Бъдещето е в </span> НАС !</h2>
+      <footer><a href="#" class="slvr">Прочети повече &raquo;</a></footer>
     </article>
   </div>
 </div>
@@ -86,7 +86,7 @@
     <!-- ################################################################################################ -->
     <div class="center btmspace-80">
       <h3 class="heading">Специализирани крайни устройства</h3>
-      <p class="nospace" style="display: none;">&fgdlgdgdfl gldfl gldfl glfld</p>
+      <p class="nospace" class="dspl-nn">&fgdlgdgdfl gldfl gldfl glfld</p>
     </div>
     <ul class="nospace group cta">
       <li class="one_third first">
@@ -119,7 +119,7 @@
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
-<div class="wrapper bgded overlay" style="background-image:url('images/demo/backgrounds/02.png');">
+<div class="wrapper bgded overlay" class="bg-2">
   <article class="hoc container clear center"> 
     <!-- ################################################################################################ -->
     <h3 class="heading">C Sharp</h3>
@@ -148,7 +148,7 @@
           <li class="fl_right">by <a href="#">Admin</a></li>
         </ul>
         <hr>
-        <p style="text-align: justify;">По това време езикът и платформата Java, изградени върху същите концепции, се радват на огромен успех във всички сфери на разработката на софтуер и разработката на C# и .NET е естественият отговор на Microsoft срещу успехите на Java технологията.</p>
+        <p class="txt-justify">По това време езикът и платформата Java, изградени върху същите концепции, се радват на огромен успех във всички сфери на разработката на софтуер и разработката на C# и .NET е естественият отговор на Microsoft срещу успехите на Java технологията.</p>
         <p class="nospace"><a href="#">Read More &raquo;</a></p>
       </article>
       <article class="one_third"><a href="#"><img class="btmspace-30" src="images/demo/320x220.png" alt=""></a>
@@ -160,7 +160,7 @@
           <li class="fl_right">by <a href="#">Admin</a></li>
         </ul>
         <hr>
-        <p style="text-align: justify;">Тъй като оригиналната версия на езика C# и платформата .NET са само за Windows се появява проекта Mono. 
+        <p class="txt-justify">Тъй като оригиналната версия на езика C# и платформата .NET са само за Windows се появява проекта Mono. 
 		Mono е проектиран за да позволи на разработчиците да създават лесно софтуер за различни платформи. 
 		Той е имплементация със свободен код на платформата .NET. Базиран е на ECMA стандартите за C# и виртуалната машина на
 		.NET – Common Language Runtime. </p>
@@ -175,7 +175,7 @@
           <li class="fl_right">by <a href="#">Admin</a></li>
         </ul>
         <hr>
-        <p style="text-align: justify;">Mono сваля бариерите за създаване на качествен софтуер за Linux с езика C#. 
+        <p class="txt-justify">Mono сваля бариерите за създаване на качествен софтуер за Linux с езика C#. 
 		Моно може да работи върху голям брой платформи като Android, 
 		Linux дистрибуциите, BSD, OS X, Windows, Solaris, и дори върху някои конзоли – Play Station 3, Wii, и X-Box 360.</p>
         <p class="nospace"><a href="#">Read More &raquo;</a></p>
