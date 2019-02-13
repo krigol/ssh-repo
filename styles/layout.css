@@ -307,6 +307,25 @@ tr:nth-child(even), #comments li:nth-child(even){color:inherit; background-color
 table a, #comments a{background-color:inherit;}
 
 
+/*new styles from exam */
+
+.wrapper bgded overlay{
+	background-image:url('../images/demo/backgrounds/01.png');
+}
+
+
+.p_style_1{
+	text-align: justify;
+	font-family: Comic Sans MS;
+}
+
+.p_style_2{
+	text-align: justify;
+	font-family: Comic Sans MS;
+	font-style: italic;
+	font-weight:600;
+}
+
 /* ------------------------------------------------------------------------------------------------------------ */
 /* ------------------------------------------------------------------------------------------------------------ */
 /* ------------------------------------------------------------------------------------------------------------ */
